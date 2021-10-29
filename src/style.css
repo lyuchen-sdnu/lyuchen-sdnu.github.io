@@ -1,0 +1,122 @@
+/* BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 10pt; BACKGROUND: #ffffff; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H1 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 18pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H2 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H3 {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H4 {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H5 {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+H6 {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+P {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+DIV {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+TD {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica
+}
+A {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-TRANSFORM: capitalize; COLOR: #9966ff; FONT-VARIANT: small-caps; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+P.section {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; FONT-FAMILY: "verdana", "arial", "helvetica"
+}
+P.subsection {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; LEFT: 10px; PADDING-BOTTOM: 5px; COLOR: #cc33ff; PADDING-TOP: 5px; FONT-FAMILY: "verdana", "arial", "helvetica"; POSITION: relative
+}
+TD.subsection {
+	FONT-SIZE: 10pt; FONT-FAMILY: "verdana", "arial", "helvetica"; BACKGROUND-COLOR: #ffccff
+}
+P.item {
+	FONT-SIZE: 10pt; FONT-FAMILY: "verdana", "arial", "helvetica"
+}
+P.justified {
+	FONT-FAMILY: "verdana", "arial", "helvetica"; TEXT-ALIGN: justify
+} */
+
+BODY {
+	MARGIN-TOP: 0px; BACKGROUND: #ffffff; MARGIN-LEFT: 0px; COLOR: #000000
+}
+H1 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 18pt; COLOR: #000000
+}
+H2 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 8pt; COLOR: #000000
+}
+H3 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+H4 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+H5 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+H6 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+P {
+	COLOR: #000000
+}
+DIV {
+	FONT-SIZE: 10pt; COLOR: #000000
+}
+TD {
+	COLOR: #000000
+}
+A {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-TRANSFORM: capitalize; COLOR: #9966ff; FONT-VARIANT: small-caps; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+P.section {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; FONT-FAMILY: "verdana", "arial", "helvetica"
+}
+P.subsection {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; LEFT: 10px; PADDING-BOTTOM: 5px; COLOR: #cc33ff; PADDING-TOP: 5px; FONT-FAMILY: "verdana", "arial", "helvetica"; POSITION: relative
+}
+TD.subsection {
+	FONT-SIZE: 10pt; FONT-FAMILY: "verdana", "arial", "helvetica"; BACKGROUND-COLOR: #ffccff
+}
+P.item {
+	FONT-SIZE: 10pt; FONT-FAMILY: "verdana", "arial", "helvetica"
+}
+P.justified {
+	FONT-FAMILY: "verdana", "arial", "helvetica"; TEXT-ALIGN: justify
+}
+
+P{ padding-left:6mm; padding-right:6mm;}
+
+H2 { padding-left:6mm; padding-right:6mm;}
+
+H4 { padding-left:6mm; padding-right:6mm;}
+
+H5 { padding-left:6mm; padding-right:6mm;}
+
+H3 { padding-left:6mm; padding-right:6mm;}
+
+H1 { padding-left:6mm; padding-right:6mm;}
+
